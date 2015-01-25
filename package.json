@@ -1,0 +1,26 @@
+{
+  "name": "get-uid",
+  "version": "0.0.0",
+  "description": "Generate unique integer id.",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.io/dfcreative/get-uid"
+  },
+  "keywords": [
+    "unique",
+    "get-uid",
+    "uid",
+    "unique-id",
+    "uniq-id",
+    "id",
+    "gen-uid",
+    "short-uid"
+  ],
+  "author": "Deema Ywanov <dfcreative@gmail.com>",
+  "license": "Unlicensed"
+}
