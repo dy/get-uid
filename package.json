@@ -1,6 +1,6 @@
 {
   "name": "get-uid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate unique integer id.",
   "main": "index.js",
   "files": [
